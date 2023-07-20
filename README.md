@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Painkillerzzz
+- 👋 Hi, I’m @-Pain.Killer-
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Python and Rust
 - 💞️ I’m looking to collaborate on ANYTHING
