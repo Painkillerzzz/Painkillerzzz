@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @-Pain.Killer-
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python and Rust
+- 👀 I’m interested in machine learning and HCI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ANYTHING
 - 📫 How to reach me zhangxiangyu40@qq.com
 
